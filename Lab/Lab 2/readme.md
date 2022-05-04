@@ -19,10 +19,9 @@ active : The :active pseudo-class is used to select and style the active link or
 hover : The :hover CSS pseudo-class matches when the user interacts with an element with a pointing device, but does not necessarily activate it.
 visited : The :visited CSS pseudo-class represents links that the user has already visited.
 # E: Container tags
-div : The <div> tag defines a division or a section in an HTML document. The <div> tag is used as a container for HTML elements - which is then styled with CSS or
-      manipulated with JavaScript. 
-section : he <section> HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. 
-p : The <p> HTML element represents a paragraph. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines           and/or first-line indentation.
+div : The <div> tag defines a division or a section in an HTML document. The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript. 
+section : The <section> HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. 
+p : The <p> HTML element represents a paragraph. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line indentation.
 main : The <main> HTML element represents the dominant content of the <body> of a document.
 header : The <header> HTML element represents introductory content, typically a group of introductory or navigational aids.
 heading tags :  A heading element implies all the font changes, paragraph breaks before and after, and any white space necessary to render the heading. The heading                       elements are H1, H2, H3, H4, H5, and H6 with H1 being the highest (or most important) level and H6 the least.
