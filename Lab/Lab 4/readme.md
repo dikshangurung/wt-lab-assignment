@@ -6,7 +6,7 @@
 # 404 Error: https://www.dikshangrg.com.np/Lab%204/error404.html
 # CTA : https://www.dikshangrg.com.np/Lab%204/CTA.html
 # Hero Section : https://www.dikshangrg.com.np/Lab%204/hero.html
-# Navigation : https://www.dikshangrg.com.np/Lab%204/hero.html
+# Navigation : https://www.dikshangrg.com.np/Lab%204/nav.html
 
 # ----------------------------------------------------------------
 
