@@ -1,5 +1,5 @@
 # --------------Recent Assignment----------------
-# Date of Assignment : June 10 2022
-# Date of Submission : June 11 2022
+# Date of Assignment : June 14 2022
+# Date of Submission : June 14 2022
 
-# [Lab 5](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%205)
+# [Assignment 6](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%205)
