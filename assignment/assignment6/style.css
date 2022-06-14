@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  margin-left: 600px;
+}
+html {
+  font-size: 68.5%;
+}
+h1::after {
+  position: absolute;
+  left: 0;
+  /* right: 10rem; */
+  width: 127rem;
+  height: 1px;
+  content: " ";
+  display: block;
+  background-color: black;
+  /* color: black; */
+}
+.container {
+  width: 100%;
+  height: 94.2vh;
+  /* background-color: aqua; */
+}
+.box {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border: 2px solid black;
+  text-align: center;
+  padding-top: 3rem;
+  font-size: 2.4rem;
+}
+/* .box-container {
+  display: flex;
+  gap: 2rem;
+  display: absol;
+} */
+.one {
+  background-color: red;
+}
+.two {
+  background-color: blue;
+  left: 100px;
+}
+.three {
+  background-color: green;
+  left: 200px;
+}
