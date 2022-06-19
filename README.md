@@ -19,7 +19,7 @@
 
 ### Lab 
 >| S.N      | Title | Link |
->>| :--- | :----: | ---: |
+>| :--- | :----: | ---: |
 >| Lab 1      |Html Webpage(cw)|  [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%201)|
 >| Lab 2      |Button hover,active|  [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%202)|
 >| Lab 3      |Color palets|  [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%203)|
