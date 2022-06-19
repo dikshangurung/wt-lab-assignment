@@ -13,11 +13,11 @@
 - Goto C:\xampp\apache\conf\extra\httpd-vhosts.conf then write 
 > -<VirtualHost *:80>
 >  -  DocumentRoot "C:/xampp/htdocs/webtech/hello/hello.php"
->   -ServerName hello.local
->    -</VirtualHost>
->   -<VirtualHost *:80>
->    -DocumentRoot "C:/xampp/htdocs/webtech/second/second.php"
->    -ServerName second.local
+>   - ServerName hello.local
+>    - </VirtualHost>
+>   - <VirtualHost *:80>
+>    - DocumentRoot "C:/xampp/htdocs/webtech/second/second.php"
+>    - ServerName second.local
 >-</VirtualHost>
 -  Goto C:\Windows\System32\drivers\etc\hosts and write:
 > -127.0.0.1	hello.local
