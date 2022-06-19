@@ -17,10 +17,6 @@
 | Assignment 6      |Creating Drag & Drop using JS    |   [View](https://github.com/Bishal711/wt-lab-assignment/tree/master/Assignment/Assignment6)|
 | Assignment 7      |Creating page using PHP    |   [View](https://github.com/Bishal711/wt-lab-assignment/tree/master/Assignment/Assignment7)|
 
-
-
-
-
 ### Lab 
 | S.N      | Title | Link    |
 | :---        |    :----:   |          ---: |
