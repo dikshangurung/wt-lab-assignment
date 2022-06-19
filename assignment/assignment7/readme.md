@@ -25,7 +25,7 @@
 > ###
 > ServerName second.local
 > ###
-> </VirtualHost>
+> </VirtualHost
 - Goto C:\Windows\System32\drivers\etc\hosts and write:
 > - 127.0.0.1	hello.local
 > - 127.0.0.1	second.local
