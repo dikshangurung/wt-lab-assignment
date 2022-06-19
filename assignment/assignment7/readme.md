@@ -17,7 +17,7 @@
 > ###
 > ServerName hello.local
 > ###
-> </VirtualHost>
+> </VirtualHost
 > ###
 > <VirtualHost *:80>
 > ###
