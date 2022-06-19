@@ -11,10 +11,10 @@
 - Goto C:\xampp\htdocs and create a folder eg: "webtech"
 - Inside I created two folders >hello with hello.php file and >second with second.php file.I created the .php file from a text editor.
 - Goto C:\xampp\apache\conf\extra\httpd-vhosts.conf then write 
-> <VirtualHost *:80>
+> ```<VirtualHost *:80>
 >    DocumentRoot "C:/xampp/htdocs/webtech/hello/hello.php"
 >   ServerName hello.local
->    </VirtualHost>
+>    </VirtualHost>```
 >   <VirtualHost *:80>
 >    DocumentRoot "C:/xampp/htdocs/webtech/second/second.php"
 >    ServerName second.local
