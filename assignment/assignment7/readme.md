@@ -25,8 +25,8 @@
 > ###
 > ServerName second.local
 > ###
-> </VirtualHost
--  Goto C:\Windows\System32\drivers\etc\hosts and write:
+> </VirtualHost>
+- Goto C:\Windows\System32\drivers\etc\hosts and write:
 > - 127.0.0.1	hello.local
 > - 127.0.0.1	second.local
 > - This is to give ip address to our local server so that we can directly access the file through web brower by simply typing the domain name.
