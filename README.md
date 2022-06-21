@@ -1,8 +1,8 @@
 # --------------Recent Assignment----------------
-# Date of Assignment : June 14 2022
-# Date of Submission : June 14 2022
+# Date of Assignment : June 21 2022
+# Date of Submission : June 21 2022
 
-# [Assignment 6][https://github.com/dikshangurung/wt-lab-assignment/tree/main/assignment/assignment6]
+# [Assignment 8][hhttps://github.com/dikshangurung/wt-lab-assignment/tree/main/assignment/assignment8]
 
 # Web Technology
 
