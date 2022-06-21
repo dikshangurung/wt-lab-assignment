@@ -16,6 +16,7 @@
 >| Assignment 5      |Creating personal Website|   [View](https://www.dikshangrg.com.np/)|
 >| Assignment 6      |Ringer,Ringer,Roses(drag and drop) in JS|   [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/assignment/assignment6)|
 >| Assignment 7      |Setup loacl host file|   [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/assignment/assignment7)|
+>| Assignment 8     |Creating php data table(array)|   [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/assignment/assignment8)|
 
 ### Lab 
 >| S.N      | Title | Link |
