@@ -26,3 +26,4 @@
 >| Lab 3      |Color palets|  [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%203)|
 >| Lab 4      |Creating 404,buyblox,cta,hero|  [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%204)|
 >| Lab 5      |JavaScript Class work|  [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%205)|
+>| Lab 6      |JavaScript Class work 2|  [View](https://github.com/dikshangurung/wt-lab-assignment/tree/main/Lab/Lab%206)|
